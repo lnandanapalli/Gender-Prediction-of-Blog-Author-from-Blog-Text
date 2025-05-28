@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+nltk
+textblob
+textstat
+scipy
+scikit-learn
+xgboost
